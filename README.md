@@ -1,16 +1,16 @@
-## Hi there 👋
+# Rafael Costa
 
-<!--
-**rafael-alavalci-data/rafael-alavalci-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Profissional em formação na área de Dados, com experiência prática no desenvolvimento de dashboards e análise de indicadores.
 
-Here are some ideas to get you started:
+## Experiência
+- Desenvolvimento de dashboards em Power BI para acompanhamento de projetos
+- Criação de indicadores operacionais e gerenciais
+- Apoio à tomada de decisão baseada em dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ferramentas
+- Power BI
+- Excel Avançado
+
+## Objetivo
+Atuar na área de dados, contribuindo com análise, visualização e geração de insights para o negócio
